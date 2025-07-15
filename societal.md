@@ -67,7 +67,7 @@ You are strongly encouraged to choose specific angles or case studies that you m
 Generative AI has dramatically lowered the barrier to producing persuasive fake content — from fabricated news articles and synthetic images to deepfake videos and voice clones. This makes it harder for individuals to distinguish between authentic and fabricated information, leading to confusion, skepticism, and the potential for manipulation on a massive scale. In an increasingly digital world, the proliferation of misinformation and disinformation poses a significant threat to democratic processes, public trust, and individual well-being. 
 
 This raises profound questions for society: How do we protect public discourse and democratic institutions from automated misinformation? What role should governments, tech companies, and civil society play in combating these threats? And what tools do we have to detect and defend against AI-generated manipulation?
-This topic invites you to explore how AI is weaponized for information warfare, how detection techniques are evolving, and what broader societal, political, or psychological challenges are involved. Presentations could focus on technical, political, or ethical aspects — or combine them.
+This topic invites you to explore how AI is weaponized for information warfare, how detection techniques are evolving, and what broader societal, political, or psychological challenges are involved. Your presentation could focus on technical, political, or ethical aspects — or combine them.
 
 **Potential Discussion Points:**
 *   **The Scale of the Problem:** How has generative AI (e.g., large language models, image generators) changed the landscape of fake news creation? What are deepfakes, and what specific threats do they pose (e.g., to individuals, elections, public figures)?
@@ -76,6 +76,8 @@ This topic invites you to explore how AI is weaponized for information warfare, 
 *   **Societal Impact:** How does the spread of AI-generated fake news affect public discourse, trust in institutions, and individual decision-making? What are the psychological and social consequences?
 *   **Mitigation Strategies:** Beyond technical detection, what other strategies can help combat AI-driven misinformation (e.g., media literacy, fact-checking, platform policies, regulation)? What role do individuals, tech companies, governments, and educational institutions play?
 *   **Ethical Considerations:** What are the ethical dilemmas associated with AI-generated fake news? How can we balance freedom of speech with the need to combat harmful disinformation?
+
+You are strongly encouraged to choose specific angles or case studies that you may find particularly relevant!
 
 ---
 
