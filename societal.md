@@ -28,6 +28,7 @@ But how does this approach compare to China’s more state-controlled framework 
 *   **Global Influence:** How might the EU AI Act influence AI regulation in other parts of the world?
 
 You are strongly encouraged to choose specific angles or case studies that you may find particularly relevant!
+
 ---
 
 ## 2. AI in Healthcare & Medicine – Ethical and Regulatory Concerns
