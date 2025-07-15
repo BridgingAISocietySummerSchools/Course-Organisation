@@ -15,7 +15,7 @@ These overviews are designed to facilitate participant-driven discussions in 60-
 
 The EU Artificial Intelligence Act (2024) is the first broad regulatory framework designed to govern the development and use of AI systems. It sets a precedent for global governance by applying a risk-based classification system — banning some AI uses, tightly regulating others, and imposing transparency and safety obligations for general-purpose models. This landmark regulation aims to ensure that AI systems developed and used within the EU are safe, ethical, and respect fundamental rights, while also fostering innovation. For an interdisciplinary audience, understanding this is crucial as it will significantly impact how AI is developed, deployed, and governed across various sectors globally, setting a precedent for future AI legislation.
 
-But how does this approach compare to China’s more state-controlled framework or the United States’ more flexible, voluntary model? This topic invites analysis of how different regions are shaping the future of AI through regulation. You might explore policy goals, enforcement structures, cross-border compliance issues, or how regulations reflect different cultural and political values. A comparative perspective is encouraged, but you are free to focus more deeply on one region if you prefer. You are encouraged to choose specific angles or case studies that you may find particularly relevant.
+But how does this approach compare to China’s more state-controlled framework or the United States’ more flexible, voluntary model? This topic invites analysis of how different regions are shaping the future of AI through regulation. You might explore policy goals, enforcement structures, cross-border compliance issues, or how regulations reflect different cultural and political values. A comparative perspective is encouraged, but you are free to focus more deeply on one region if you prefer. 
 
 **Potential Discussion Points:**
 *   **Risk-Based Approach:** Explain the core principle of the AI Act, which categorizes AI systems based on their potential risk (unacceptable, high, limited, minimal). Discuss examples for each category.
@@ -27,12 +27,13 @@ But how does this approach compare to China’s more state-controlled framework 
 *   **Implementation and Timeline:** Briefly touch upon the phased implementation timeline of the Act, with different provisions coming into effect over the next few years.
 *   **Global Influence:** How might the EU AI Act influence AI regulation in other parts of the world?
 
+You are strongly encouraged to choose specific angles or case studies that you may find particularly relevant!
 ---
 
 ## 2. AI in Healthcare & Medicine – Ethical and Regulatory Concerns
 
 Artificial intelligence is rapidly transforming healthcare — from clinical diagnostics to hospital logistics and patient risk prediction. These innovations promise faster, more personalized, and often more accurate care. Artificial Intelligence is poised to revolutionize healthcare and medicine, offering unprecedented opportunities to improve diagnostics, personalize treatments, accelerate drug discovery, and enhance operational efficiency. But as algorithms become more embedded in medical decision-making, they also raise critical ethical and regulatory questions: How do we ensure patient safety when using black-box models? Who is responsible for potential harm caused by an AI-driven diagnosis? How can we address bias in training data? 
-This topic invites exploration of how AI is shaping modern medicine, and how ethics, regulation, and societal values intersect with clinical innovation. You could explore current regulations, global differences in governance, or specific controversies such as explainability, data privacy, or bias in training data. You are encouraged to choose specific angles or case studies that you may find particularly relevant.
+This topic invites exploration of how AI is shaping modern medicine, and how ethics, regulation, and societal values intersect with clinical innovation. You could explore current regulations, global differences in governance, or specific controversies such as explainability, data privacy, or bias in training data. 
 
 **Potential Discussion Points:**
 *   **Applications of AI in Healthcare:** Discuss concrete examples of AI in use, such as:
@@ -56,6 +57,7 @@ This topic invites exploration of how AI is shaping modern medicine, and how eth
     *   Equitable access to AI-powered healthcare technologies.
     *   The potential for over-reliance on AI and deskilling of medical professionals.
 
+You are strongly encouraged to choose specific angles or case studies that you may find particularly relevant!
 ---
 
 ## 3. AI for Fake News Generation and Detection
