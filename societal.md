@@ -95,3 +95,7 @@ This topic is a chance to explore how technologies affect labour markets, inequa
 *   **Economic and Social Inequality:** How might AI and automation exacerbate existing inequalities or create new ones? Discuss the potential for a widening gap between high-skilled workers who can leverage AI and those in roles susceptible to automation. What are the implications for income distribution and social mobility?
 *   **Policy Responses:** What role can governments and international organizations play in managing the transition (e.g., universal basic income, retraining programs, new labor laws, social safety nets)?
 *   **Ethical Considerations:** Discuss the ethical implications of AI in the workplace, such as algorithmic bias in hiring, surveillance, and the impact on worker well-being and autonomy.
+
+You are strongly encouraged to choose specific angles or case studies that you may find particularly relevant!
+
+
