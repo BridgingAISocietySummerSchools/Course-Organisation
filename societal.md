@@ -98,4 +98,4 @@ This topic is a chance to explore how technologies affect labour markets, inequa
 
 You are strongly encouraged to choose specific angles or case studies that you may find particularly relevant!
 
-
+---
