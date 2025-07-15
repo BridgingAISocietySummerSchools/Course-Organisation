@@ -59,6 +59,7 @@ This topic invites exploration of how AI is shaping modern medicine, and how eth
     *   The potential for over-reliance on AI and deskilling of medical professionals.
 
 You are strongly encouraged to choose specific angles or case studies that you may find particularly relevant!
+
 ---
 
 ## 3. AI for Fake News Generation and Detection
